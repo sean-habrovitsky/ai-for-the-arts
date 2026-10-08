@@ -9,5 +9,6 @@ My Goals for this course are:
   <li>Understand coding with ease</li>
   <li>Ensure that my work is completed in a well presented way</li>
   <li>Engage with my tutor</li>
+  <li>Co-ordinate with my lab partner</li>
   <li>Have fun!</li>
 </ul>
